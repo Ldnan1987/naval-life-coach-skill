@@ -1,0 +1,20 @@
+{
+  "$schema": "https://catalog.msh.team/misc/kimi.plugin.schema.json",
+  "name": "naval-life-coach",
+  "version": "0.1.0",
+  "description": "基于《纳瓦尔宝典》提炼的14张人生指导技能卡：财富创造、判断力、幸福修炼、自我救赎四线教练",
+  "keywords": [],
+  "author": "Local developer",
+  "license": "MIT",
+  "skillInstructions": "",
+  "interface": {
+    "displayName": "纳瓦尔人生教练",
+    "shortDescription": "在 Kimi 里使用 纳瓦尔人生教练",
+    "longDescription": "基于《纳瓦尔宝典》提炼的14张人生指导技能卡：财富创造、判断力、幸福修炼、自我救赎四线教练",
+    "developerName": "Local developer",
+    "websiteURL": "",
+    "iconUrl": "",
+    "category": "PRODUCTIVITY"
+  },
+  "skills": "./skills/"
+}
